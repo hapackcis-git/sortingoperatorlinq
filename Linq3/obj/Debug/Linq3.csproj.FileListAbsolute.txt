@@ -1,0 +1,8 @@
+F:\recursionc#\Linq3\Linq3\bin\Debug\Linq3.exe.config
+F:\recursionc#\Linq3\Linq3\bin\Debug\Linq3.exe
+F:\recursionc#\Linq3\Linq3\bin\Debug\Linq3.pdb
+F:\recursionc#\Linq3\Linq3\obj\Debug\Linq3.csproj.AssemblyReference.cache
+F:\recursionc#\Linq3\Linq3\obj\Debug\Linq3.csproj.SuggestedBindingRedirects.cache
+F:\recursionc#\Linq3\Linq3\obj\Debug\Linq3.csproj.CoreCompileInputs.cache
+F:\recursionc#\Linq3\Linq3\obj\Debug\Linq3.exe
+F:\recursionc#\Linq3\Linq3\obj\Debug\Linq3.pdb
